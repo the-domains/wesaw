@@ -1,0 +1,14 @@
+layout_spectrum: 0.2993293
+typography_spectrum: 0.6576343
+color:
+  saturation: 0.6944134
+  lightness: 0.1799394
+  brandStrength: 0.08158464
+  rhythmicContrast: 0.5160281
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Wesaw
